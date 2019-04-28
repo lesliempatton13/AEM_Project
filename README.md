@@ -6,6 +6,7 @@ The Effect of Natural Disasters on Student Learning: A Case Study of Hurricane H
 
 **Research Question:** Is student learning affected by the presence of a natural disaster and what policies does the State of Texas have in place to combat this? 
 
+**Research Question 2** Is student achievement, measured by state testing, affected by a high teacher turnover rate?
 **Objectives:**
 * To identify any significant changes in student learning after a natural disaster using STAAR (State of Texas Assessment of Academic Readiness) data of secondary students
 * To asses current strategies used by the state of Texas in addressing and accommodating student learning amidst a natural disaster
