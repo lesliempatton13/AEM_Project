@@ -1,14 +1,14 @@
 # AEM_Project
-## **The Effect of Natural Disasters on Student Learning**
+## **The Effect of Natural Disasters on Student Achievement**
 
 **Title of Research:**
-The Effect of Natural Disasters on Student Learning: A Case Study of Hurricane Harvey and Gulf Coast School Districts 
+The Effect of Natural Disasters on Student Achievement: A Case Study of Hurricane Harvey and Texas School Districts 
 
-**Research Question:** Is student learning affected by the presence of a natural disaster and what policies does the State of Texas have in place to combat this? 
+**Research Question:** Is student achievement affected by the presence of a natural disaster and what policies does the State of Texas have in place to combat this? 
 
 **Objectives:**
-* To identify any significant changes in student learning after a natural disaster using STAAR (State of Texas Assessment of Academic Readiness) data of secondary students
-* To asses current strategies used by the state of Texas in addressing and accommodating student learning amidst a natural disaster
+* To identify any significant changes in student achievement after a natural disaster using STAAR (State of Texas Assessment of Academic Readiness) data of secondary students
+* To asses current strategies used by the state of Texas in addressing and accommodating student achievement amidst a natural disaster
 
 **Data Sets Used:** 
 * STAAR aggregated 2016-2017 English I and 2017-2018 English II campus level data
@@ -34,24 +34,4 @@ In an attempt to get an accurate snapshot of student learning, the same set of s
 
 The expectation is to find areas where this paradigm exists and run a chi-square test to ensure that the level of flooding is in fact correlated with student learning. Upon looking at campuses and districts heavily effected, the accommodations the campus/district provides will be examined. To date, there exists no natural disaster 504 accommodations, which are accommodations normally given to students with emotional distress, attention deficit disorder, etc. I propose the State of Texas should adopt an “emergency” 504 plan for students immediately after a natural disaster whose families incurred damage and loss of possessions. 
 
-### Data Management Plan ###
-**Data Collection**
-* Collected STAAR aggregate campus level data from the TEA website; data is open source and anonymized.
-* Downloaded CSV data from USGS that reports on high water level areas during Hurricane Harvey as well as reports of incidents processed as "Peak Summaries Data"
-* *Still need to create/collect database for all high school locations and further clean data to only include schools with documented coordinates*
 
-**Documentation and Metadata**
-* Data manipulation (calculating T-Tests) will be done and document in Colab, and each indicator T-Test Colab file will be downloaded and put into this repository.
-
-**Ethics and Legal Compliance**
-
-**Storage and Backup**
-* The data will be stored in this repository, and backed up via Colab. The data will thus be stores in three places: on my personal computer, in Colab (which automatically saves), and in this repository.
-
-**Selection and Preservation**
-* Data that is both shareable and long-term is the geographic locations of the high schools in Texas, as well as the resulting data showing any significant changes in test scores before and after Harvey. 
-
-**Data Sharing**
-* The database created for coordinates of Texas High Schools will be shared publicly.The location of sharing this data is to be determined. 
-
-**Responsibilities and Resources**
